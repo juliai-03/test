@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Julia Ivanova\source\repos\smile\smile\Source.cpp(60,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  smile.vcxproj -> C:\Users\Julia Ivanova\source\repos\smile\x64\Debug\smile.exe
