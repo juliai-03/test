@@ -172,3 +172,5 @@ int main()
 	out.close();
 	system("pause");
 }
+
+ervbynhk
